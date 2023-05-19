@@ -4,11 +4,11 @@ Quickly get started with a minimal Nyxb starter template!
 
 ## ⏱️ Quick start
 
-Head over to [nuxt.new](https://nyxb.new) to get started quickly.
+Head over to [nyxb.new](https://nyxb.new) to get started quickly.
 
 ## 📖 Usage
 
-You can use `nyxbi` CLI to clone latest template to an empty directory:
+You can use [`nyxbi`](https://github.com/nyxblabs/nyxbi) CLI to clone latest template to an empty directory:
 
 ```sh-session
 $ npx nyxbi init [-t,--template=<template>] [<dir>]
